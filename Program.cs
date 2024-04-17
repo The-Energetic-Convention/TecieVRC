@@ -41,7 +41,7 @@ namespace TecieVRC
                 }
 
                 ApiResponse<CurrentUser> currentUserResp = authApi.GetCurrentUserWithHttpInfo();
-                Thread.Sleep(500);
+                Thread.Sleep(3000);
 
                 if (requiresEmail2FA(currentUserResp))
                 {

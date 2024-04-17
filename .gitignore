@@ -1,3 +1,8 @@
 bin/**
 obj/**
 .vs/**
+<<<<<<< Updated upstream
+=======
+/bin/**
+/obj/**
+>>>>>>> Stashed changes
