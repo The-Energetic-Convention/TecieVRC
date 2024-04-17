@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TecieVRC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b189ba944591fc3c81ce5f1c515a3d43634985a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("TecieVRC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TecieVRC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

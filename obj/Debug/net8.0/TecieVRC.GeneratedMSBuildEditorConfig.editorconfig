@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TecieVRC
-build_property.ProjectDir = Z:\TECSiteApps\TecieVRC\TecieVRC\
+build_property.ProjectDir = C:\Users\Unifox\Downloads\TECSystem\TecieVRC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
