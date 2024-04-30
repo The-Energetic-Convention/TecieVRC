@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TecieVRC", "TecieVRC.csproj", "{DAEE885A-1463-4DD5-BE7C-3B007BBFEABE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAEE885A-1463-4DD5-BE7C-3B007BBFEABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAEE885A-1463-4DD5-BE7C-3B007BBFEABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAEE885A-1463-4DD5-BE7C-3B007BBFEABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAEE885A-1463-4DD5-BE7C-3B007BBFEABE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {815FFA60-E9D1-47D1-93D9-6ABE7223C905}
+	EndGlobalSection
+EndGlobal
